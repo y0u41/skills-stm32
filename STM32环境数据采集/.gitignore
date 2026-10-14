@@ -9,6 +9,8 @@ Output/*.dep
 Output/*.lnp
 Output/*.lst
 Output/*.iex
+Output/*.hex
+Output/*.sct
 Output/EventRecorderStub.scvd
 
 # Keil 用户状态文件
