@@ -1,0 +1,21 @@
+# Keil 编译产物
+Output/*.o
+Output/*.d
+Output/*.crf
+Output/*.axf
+Output/*.htm
+Output/*.map
+Output/*.dep
+Output/*.lnp
+Output/*.lst
+Output/*.iex
+Output/EventRecorderStub.scvd
+
+# Keil 用户状态文件
+*.uvguix.*
+*.uvoptx
+*.bak
+*.scvd
+
+# 保留 Keil 工程文件
+!*.uvprojx
