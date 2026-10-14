@@ -1,5 +1,7 @@
 # STM32 环境数据采集技能包
 
+![License](https://img.shields.io/badge/license-MIT-green) ![Language](https://img.shields.io/badge/language-C-555555) ![Platform](https://img.shields.io/badge/platform-STM32F103-blue)
+
 > 基于 STM32F103 + 正点原子探索者开发板的环境数据采集系统，支持 SHT30/DHT11 温湿度、光敏电阻光照采集，LCD 实时显示 + 串口 CSV 输出。
 
 ## 项目结构
