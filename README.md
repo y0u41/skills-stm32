@@ -128,7 +128,7 @@ skills-stm32/
 # 1. 用 Keil 5.43a + AC6 打开工程
 #    STM32环境数据采集/Projects/MDK-ARM/
 
-# 2. F7 编译 → F8 下载
+# 2. F7 编译 → F8 下载                  
 
 # 3. 上电查看 LCD 显示
 
